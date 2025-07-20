@@ -4,5 +4,5 @@ export interface PillProps {
 
 export interface ButtonProps {
   title: string;
-  className?: string; // optional class override
+  styles: string; // optional class override
 }
