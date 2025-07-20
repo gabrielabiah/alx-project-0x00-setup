@@ -34,7 +34,7 @@ const Landing = () => {
 					<div className="flex gap-4 flex-wrap">
 						<Button title="Large sm" styles="text-lg py-3 px-6 rounded-sm" />
 						<Button title="Large md" styles="text-lg py-3 px-6 rounded-md" />
-						<Button title="Large full" styles="text-lg py-3 px-6 rounded-full" />
+						<Button title="Large full" styles="text-lg py-3 px-6 rounded-lg" />
 					</div>
 				</div>
 			</div>
